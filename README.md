@@ -1,4 +1,6 @@
-## Hi there 👋
+Hey 🙂
+🔭 I’m currently working on a Chat Bot Application that responds to your queries 
+- 🌱 I’m currently learning JS | Python
 
 <!--
 **brayden-scott04/brayden-scott04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
